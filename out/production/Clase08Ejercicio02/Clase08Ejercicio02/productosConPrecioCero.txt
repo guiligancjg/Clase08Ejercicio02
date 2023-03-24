@@ -1,0 +1,4 @@
+Leche Larga;0;1
+Acondicionador;0;3
+Alcohol en Gel;0;2
+Jabón Líquido p/ Manos;0;6

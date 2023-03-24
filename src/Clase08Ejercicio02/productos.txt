@@ -1,0 +1,45 @@
+Leche Larga;40;1
+Acondicionador;10;3
+Alcohol en Gel;100.05;2
+Jabón Líquido p/ Manos;460;6
+Repelente;150;3
+Toallas Desmaquillantes;100;2
+Yogur Batido;140;2
+Caballa al Natural;110;1
+Galletitas Dulces;300.11;2
+Jugo en Polvo;40;1
+Mermelada;160.5;3
+Tostadas de Arroz;100;2
+Desodorante;140;1
+Budín;10;3
+Café;100;2
+Toallas Desmaquillantes;100;2
+Yogur Batido;140;2
+Caballa al Natural;110;1
+Galletitas Dulces;300.11;2
+Jugo en Polvo;40;1
+Mermelada;160.5;3
+Tostadas de Arroz;100;2
+Desodorante;140;1
+Budín;10;3
+Café;100;2
+Toallas Desmaquillantes;100;2
+Yogur Batido;140;2
+Caballa al Natural;110;1
+Galletitas Dulces;300.11;2
+Jugo en Polvo;40;1
+Mermelada;160.5;3
+Tostadas de Arroz;100;2
+Desodorante;140;1
+Budín;10;3
+Café;100;2
+Toallas Desmaquillantes;100;2
+Yogur Batido;140;2
+Caballa al Natural;110;1
+Galletitas Dulces;300.11;2
+Jugo en Polvo;40;1
+Mermelada;160.5;3
+Tostadas de Arroz;100;2
+Desodorante;140;1
+Budín;10;3
+Café;100;2
